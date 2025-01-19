@@ -4,14 +4,14 @@
     "top_right": [],
     "bottom_left": [
       {
-        "text": "Sugar ${version}-rev.${sha}",
+        "text": "Createrency ${version}-rev.${sha}",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/HarvelsX/Sugar"
+          "value": "https://twitch.tv/refferency"
         },
         "hoverEvent": {
           "action": "show_text",
-          "contents": "Open modpack page on Github"
+          "contents": "HUH?"
         }
       }
     ],
@@ -23,15 +23,15 @@
     "top_right": [],
     "bottom_left": [
       {
-        "text": "Sugar ${version}-rev.${sha}",
+        "text": "Createrency ${version}-rev.${sha}",
         "color": "gray",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://github.com/HarvelsX/Sugar"
+          "value": "https://twitch.tv/refferency"
         },
         "hoverEvent": {
           "action": "show_text",
-          "contents": "Open modpack page on Github"
+          "contents": "HUH?"
         }
       }
     ],
