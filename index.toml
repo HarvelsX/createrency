@@ -50,7 +50,7 @@ hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "a0821bfa1a40b75306cd13175173aec35d6a872928717c57065bb97ed7b8e3de"
+hash = "97400b8123303de3b93e327e4d6e757a69a43308454a93364dbf6c9d96085864"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -350,7 +350,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "183c3067f8fde6db761ad42dc8c73bbc4ff4dc5ab9c092fe9cfe4143697ec83d"
+hash = "71e7690a83fec002cce83c06c4cffe036154eae2f9d6bf316fd73de78bdbf314"
 
 [[files]]
 file = "icon.png"
@@ -795,15 +795,15 @@ file = "shaderpacks/BSL_v8.2.04.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "f4db72dfa6a21c24944444f3fe0fa2f47dc07c21ebed8fa51146c69f2cb6c5a2"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.2.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
 hash = "368a80ef2b4acdc542ea08fe7f78da150203598d6fa128489ec40b66d318376a"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.2_NS.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.3_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
