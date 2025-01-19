@@ -1,16 +1,16 @@
-name = "Sugar"
+name = "Createrency"
 author = "Harvel"
-version = "4.4.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "241f97eeabc252e515c3d187794a38529b09398754cef679f968a855e1ea660d"
+hash = "3968499a8741fbe18aa4cad4de665cf93241cde2d6d215f9be5acaa6caa0ee22"
 
 [versions]
-fabric = "0.15.6"
-minecraft = "1.20.4"
+fabric = "0.16.10"
+minecraft = "1.20.1"
 
 [options]
-acceptable-game-versions = ["1.20.1"]
+acceptable-game-versions = ["1.20", "1.20.1", "1.20.2"]
