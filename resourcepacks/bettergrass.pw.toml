@@ -1,13 +1,13 @@
 name = "Better Grass"
-filename = "§fBetter §a§lGrass §71.21.zip"
+filename = "§fBetter §a§lGrass §71.20.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SiVYAB4s/versions/eQcoGzHc/%C2%A7fBetter%20%C2%A7a%C2%A7lGrass%20%C2%A771.21.zip"
-hash-format = "sha1"
-hash = "c6558ebb39ca09fe85c63ea9ec81d888f8a5b06a"
+url = "https://cdn.modrinth.com/data/SiVYAB4s/versions/37ekyH3E/%C2%A7fBetter%20%C2%A7a%C2%A7lGrass%20%C2%A771.20.zip"
+hash-format = "sha512"
+hash = "5a9f986cb5531d90d0872c68406f38ef730ba1c55406f529b6c910bb2dcd1c47318946e4cf54cb1cd12fa5ec0659111e1bd738ead8b4cd69ceb5f5d099df7978"
 
 [update]
 [update.modrinth]
 mod-id = "SiVYAB4s"
-version = "eQcoGzHc"
+version = "37ekyH3E"
