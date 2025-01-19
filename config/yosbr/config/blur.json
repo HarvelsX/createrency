@@ -17,5 +17,5 @@
   "gradientStartAlpha": 70,
   "gradientEnd": "#000000",
   "gradientEndAlpha": 80,
-  "showScreenTitle": true
+  "showScreenTitle": false
 }

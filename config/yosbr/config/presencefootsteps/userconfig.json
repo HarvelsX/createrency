@@ -6,9 +6,14 @@
   "passiveEntitiesVolume": 100,
   "runningVolumeIncrease": 0,
   "wetSoundsVolume": 50,
+  "foliageSoundsVolume": 100,
   "maxSteppingEntities": 50,
-  "stance": "NONE",
+  "disabled": false,
   "multiplayer": true,
   "global": false,
+  "footwear": true,
+  "visualiser": false,
+  "exclusive": false,
+  "stance": "NONE",
   "targetEntities": "ALL"
 }

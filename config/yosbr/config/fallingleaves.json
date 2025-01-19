@@ -6,6 +6,7 @@
   "leafLifespan": 160,
   "leafSpawnRate": 8,
   "coniferLeafSpawnRate": 6,
+  "cherrySpawnRate": 10,
   "snowflakeSpawnRate": 15,
   "dropFromPlayerPlacedBlocks": true,
   "leavesOnBlockHit": true,
