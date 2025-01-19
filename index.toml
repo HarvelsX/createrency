@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "577033cff257890d23f03ca5a9f349c3c5ee44d459f717d3cb4fa08b4c1b69da"
+hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8ada718700562cd7d463a2677113b44ee7436be093f97579638b06411a8376a2"
+hash = "a8078c293137a45a0061a6ff6468c9dce4e5e80e4bb88772c2f5a54a9ff9f16e"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cea6ecd5e7bd741261bd06dbe9ea702f1f353bd4fde4c19da76d893cc688eeca"
+hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
 metafile = true
 
 [[files]]
