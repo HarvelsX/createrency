@@ -304,7 +304,7 @@ _version = 2
 				# NOTE: There WILL be performance hit! 
 				#    Additionally, only stuff that's loaded after you enable this 
 				#    will render their debug wireframes.
-				enableRendering = false
+				enableRendering = true
 
 			[client.advanced.debugging.openGl]
 				#
@@ -526,7 +526,7 @@ _version = 2
 				maxHorizontalResolution = "BLOCK"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 64
 				#
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
