@@ -25,6 +25,74 @@ file = "config/entityculling.json"
 hash = "348fb86cd208f366abab65f290049e67785582cce0031af4fb2f0ebc832e2019"
 
 [[files]]
+file = "config/fancymenu/assets/macos.icns"
+hash = "17a5959a1d4c4d8a1be63a234e5a7c321dba2cdc1fc7a45604445781381b4f6d"
+
+[[files]]
+file = "config/fancymenu/assets/subtitle.png"
+hash = "11bf241dcff6ed5c1b216af515643bbd65a283eaedcd2adac285f95d5fc80397"
+
+[[files]]
+file = "config/fancymenu/assets/title.png"
+hash = "fec3b749d690a28f2cd6763071d4c887cee000b242900e8fa3442b2ecf2be687"
+
+[[files]]
+file = "config/fancymenu/assets/x16.png"
+hash = "e06cb78ac002eafa1ca1c4f2ffc4289b5fef56182950506bb8a377250e778cca"
+
+[[files]]
+file = "config/fancymenu/assets/x32.png"
+hash = "22da91a176da633021937e85d48d555c4b66d4619e45a34d9fcd667514d097fb"
+
+[[files]]
+file = "config/fancymenu/assets/x64.png"
+hash = "2da1167208a2f0c5a868ba83676399e8d8d6c70198bd7975840c7764f9248709"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "7d027ca0e8f130156a8490d4f24b8d2c6b25215cea32e240897228a59f47c007"
+
+[[files]]
+file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
+hash = "5bd8a7abc0234e6fea14612477f74afaedbc1782408505eb4ae53452f7d5137e"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "d0197cfbae1812f05b6d70a5458a08e67567fcd5cb74d550aadf2f294f4fcaf0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "6436938c2985b04f93c93878945928bcab23f35ea52164c066795031168c540f"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/panorama/panorama_0.png"
+hash = "c0456f13177921c86f46b01debea0e46b501771f6be40f64a83ceddbfda4ced1"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/panorama/panorama_1.png"
+hash = "e991ea23d6184f0c50ed15b73949632665a1b259974736910f10e8b54bbd4ad3"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/panorama/panorama_2.png"
+hash = "a5d96b48d12b576830dc0632eb9e0232ab7e3c4686a666bb3bae7fa3aff13aae"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/panorama/panorama_3.png"
+hash = "9ed9a1f23cd3be8a53bfd878f19eddcb60f4269b89cac71defc355798c8a17d6"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/panorama/panorama_4.png"
+hash = "6fcdb6a3f60f1b94f2afad0fac15bb3828a26af491a43589becc3914571a0cd3"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/panorama/panorama_5.png"
+hash = "488efcb0ab4375be087c422bc53d007fd564bc2d598cacd287a2fb38c0b3724e"
+
+[[files]]
+file = "config/fancymenu/panoramas/create/properties.txt"
+hash = "ee8026fa870f65d23fe24754c4a1789a8f0592984bbc4f5496dd7c4edaf56b1e"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
@@ -45,12 +113,20 @@ file = "config/modmenu.json"
 hash = "8e2d304eee7602e9af8b579c705d09cee94e74f9afd803246ba204db9f9ba37e"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "937a3813a7e23de7101e210138f91aa783047b6fdc75e79a8cbbfde67edaf27a"
+
+[[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "97400b8123303de3b93e327e4d6e757a69a43308454a93364dbf6c9d96085864"
+hash = "972dc2e5007cd31cd639030ca161e5a598f1d2b13b8a693ff26ba948b91c41c8"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -350,7 +426,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "71e7690a83fec002cce83c06c4cffe036154eae2f9d6bf316fd73de78bdbf314"
+hash = "a2ddc70ca15a9fd402b3a11656002370d733653f6784348b862241e0c83ba68b"
 
 [[files]]
 file = "icon.png"
@@ -387,6 +463,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "ec2c437fe50a3f8ea6077215974ba9f769cb94eb29432156cbbe43137a74013f"
 metafile = true
@@ -419,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "31ffd2f02b7279711224a5307fa896084e7395bffa6c1a28d34aca2e8c9869be"
 metafile = true
 
 [[files]]
@@ -557,6 +643,11 @@ hash = "83cc00ddd0787cb0df8e4cfb5ab16d0d3b2de6dab99a4987dcab8161a7e20bbe"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "38faf6e74a5eed3e5aa193a256c8361ab22992dcf54d4a8ef51ce77f3bce1025"
 metafile = true
@@ -597,6 +688,11 @@ hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -624,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
@@ -669,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
 metafile = true
 
 [[files]]
