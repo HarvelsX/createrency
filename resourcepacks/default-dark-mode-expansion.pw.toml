@@ -1,13 +1,13 @@
 name = "Default Dark Mode: Expansion"
-filename = "Default-Dark-Mode-Expansion-1.19.0+-2025.1.10.zip"
+filename = "Default-Dark-Mode-Expansion-1.19.0+-2025.1.20.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m3vMfZFQ/versions/fApE7Db9/Default-Dark-Mode-Expansion-1.19.0%2B-2025.1.10.zip"
+url = "https://cdn.modrinth.com/data/m3vMfZFQ/versions/yA2KzlSi/Default-Dark-Mode-Expansion-1.19.0%2B-2025.1.20.zip"
 hash-format = "sha512"
-hash = "8c1e0cad49a6b85d47da60a431c4ce89f354e6f925c10a33045db8c17385418182711ab459831c30413ed71d670de56d3aca6a56caf0a5f1f85b95188469e3e9"
+hash = "97cf6eb9877f06fbbc73800187eefb4072a549fc17bdda7dae9e7b9f4c16bde3706dcf72c443de7a12abbd8b356ed9042cae031aec3cc1dccd68a848f53ca3d0"
 
 [update]
 [update.modrinth]
 mod-id = "m3vMfZFQ"
-version = "fApE7Db9"
+version = "yA2KzlSi"

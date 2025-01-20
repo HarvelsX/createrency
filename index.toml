@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
+hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
 metafile = true
 
 [[files]]
@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode-expansion.pw.toml"
-hash = "685c92dc2fcb201bb5cff1d71bb0957eae9af4b8e6c430234854452ebc5540be"
+hash = "cef84b6e67b2b59d327fe701c3a53b9c1187be850c8714ca262a048204557fb9"
 metafile = true
 
 [[files]]
