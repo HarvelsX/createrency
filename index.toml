@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "43a372304b1da21ff143b9dd10424d93dc193073aecd5984a6b3872416dc7acd"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "bde7bb5216507e09ee7e2d9ddd3f668dbcdfe600bd50413a24085c9599a4bcdb"
-
-[[files]]
 file = "config/custom-hud/profile1.txt"
 hash = "f1dbbaeaa42dbb51bcb7bde59642cc30016e43b62490551df13b2e44f2050e5c"
 
@@ -139,6 +135,10 @@ hash = "a7c0df24747d4bba93af8e3d36382bffa8791e2012723d1d203582f2ab4ff1af"
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "3db3e9211e6d992b804ff2ec4e4247f40a2ea74c2b16e3ca677bc6f03b473001"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -433,6 +433,11 @@ file = "icon.png"
 hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
@@ -453,8 +458,8 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "f516c706614c55a63a9aeade5f56914f64cac1425ba914b1027d49bd9b82beae"
+file = "mods/blur-plus.pw.toml"
+hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
 metafile = true
 
 [[files]]
@@ -480,11 +485,6 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "54b7d92cf08c2ac96b49249e96accdb012d5afa401b0f75eaf0160e0ba860d47"
-metafile = true
-
-[[files]]
-file = "mods/chisel-reborn.pw.toml"
-hash = "1191c5d3c6894353e63b2fbdc5c395e2a7759e9706c327f51895e0ab9386bfe2"
 metafile = true
 
 [[files]]
@@ -573,11 +573,6 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
 metafile = true
@@ -650,6 +645,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "38faf6e74a5eed3e5aa193a256c8361ab22992dcf54d4a8ef51ce77f3bce1025"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "8919c96e0b5948f65dec54d025e79044c6e9acf4695158ff4560a4ade667da16"
 metafile = true
 
 [[files]]
@@ -748,6 +753,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a8078c293137a45a0061a6ff6468c9dce4e5e80e4bb88772c2f5a54a9ff9f16e"
 metafile = true
@@ -758,6 +768,16 @@ hash = "35d4f6606477aaeead65efcdb1c459e228d9102372564e4de27b41c73b8925a7"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "6007905b54e2f0a2d137906df129e52801acac2c174d9a56ed36c33dbad7e549"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -765,6 +785,16 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "6a0e0360ed2eaed1e6ff40c705e81725fe530cd5b6fb0dbf81e03d1f05a14317"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
 metafile = true
 
 [[files]]
@@ -800,6 +830,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
 metafile = true
 
 [[files]]
