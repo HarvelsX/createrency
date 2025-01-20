@@ -20,7 +20,7 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # (Default: 1) Configures the parallelism of global executor
-globalExecutorParallelism = "2"
+globalExecutorParallelism = 2
 
 [fixes]
 	# (Default: true)  
@@ -50,22 +50,19 @@ globalExecutorParallelism = "2"
 		maxViewDistance = 32
 
 [noTickViewDistance]
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = true
-	# (Default: 2) No-tick view distance max concurrent chunk loads 
-	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = 2
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
 	compatibilityMode = true
+	# (Default: 3) No-tick view distance max concurrent chunk loads 
+	#  Lower this for a better latency and higher this for a faster loading
+	maxConcurrentChunkLoads = 2
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = false
+	# (Default: true) Whether to enable no-tick view distance
+	enabled = true
 
 [generalOptimizations]
-	# (Default: true) Whether to let async chunk request no longer block server thread
-	# (may cause incompatibility with other mods)
-	optimizeAsyncChunkRequest = true
 	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
 	# to speed up chunk loading and generation  
@@ -78,6 +75,9 @@ globalExecutorParallelism = "2"
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
 	midTickChunkTasksInterval = "default"
+	# (Default: true) Whether to let async chunk request no longer block server thread
+	# (may cause incompatibility with other mods)
+	optimizeAsyncChunkRequest = true
 
 	[generalOptimizations.autoSave]
 		# (Default: ENHANCED) Defines how auto save should be handled  
@@ -88,12 +88,14 @@ globalExecutorParallelism = "2"
 		# Please preserve quotes so this config don't break
 		# 
 		mode = "ENHANCED"
+		# (Default: 20000) Defines the delay in milliseconds between performing auto-save for a chunk  
+		# This is only used when mode is set to ENHANCED
+		# 
+		delay = "default"
 
 [ioSystem]
-	# (Default: 8192) Soft limit for io worker nbt cache
-	chunkDataCacheSoftLimit = "default"
-	# (Default: 32678) Hard limit for io worker nbt cache
-	chunkDataCacheLimit = "default"
+	# (Default: true) Whether to use async chunk loading & unloading
+	async = true
 	# (Default: -1) Defines which chunk compression should be used 
 	# -1 for Vanilla default  
 	# 1  for GZip (RFC1952) (Vanilla compatible) 
@@ -114,21 +116,16 @@ globalExecutorParallelism = "2"
 	# (may cause incompatibility with other mods)
 	# 
 	# Set to false for the following reasons: 
-	# Incompatible with architectury@11.0.11 (*) (defined in c2me) 
+	# Incompatible with architectury@9.2.14 (*) (defined in c2me) 
 	gcFreeChunkSerializer = false
-	# (Default: false) Whether to use the optimized implementation of IO system
+	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = true
-	# (Default: true) Whether to use async chunk loading & unloading
-	async = true
-	# (Default: false) Whether to recover from errors when loading chunks 
-	#  This will cause errored chunk to be regenerated entirely, which may cause data loss 
-	#  Only applies when async chunk loading is enabled
-	# 
-	recoverFromErrors = false
+	# (Default: 8192) Soft limit for io worker nbt cache
+	chunkDataCacheSoftLimit = "default"
+	# (Default: 32678) Hard limit for io worker nbt cache
+	chunkDataCacheLimit = "default"
 
 [threadedWorldGen]
-	# (Default: false) Whether to enable this feature
-	enabled = true
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = true
@@ -140,6 +137,8 @@ globalExecutorParallelism = "2"
 	# (may cause incompatibility with other mods)
 	# 
 	asyncScheduling = true
+	# (Default: false) Whether to enable this feature
+	enabled = true
 
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
