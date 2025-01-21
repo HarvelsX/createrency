@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "43a372304b1da21ff143b9dd10424d93dc193073aecd5984a6b3872416dc7acd"
-
-[[files]]
 file = "config/custom-hud/profile1.txt"
 hash = "f1dbbaeaa42dbb51bcb7bde59642cc30016e43b62490551df13b2e44f2050e5c"
 
@@ -879,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "a993fd66a09dcac86e816ec06427fb1e4273b331c1899c138dfa761c0be8c54f"
+hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
 metafile = true
 
 [[files]]
@@ -913,12 +909,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "cf6bfbedf4c688d8c33c3aaf76ac6772dd24ebf2a348c65075235aec71c9e384"
+hash = "1834850889184235d2a7402e16be3c0f624b9b47233c934520e59f0115864632"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
-hash = "3040adb8d68f2faa0ea005fc88513ff081fe7eb7809f8ca7f7d18d4bfb4f370e"
+hash = "933c42950f79cf6f5390a8ca6d7613d9f2c163ac9d5eca2659f18a09607c986e"
 metafile = true
 
 [[files]]
