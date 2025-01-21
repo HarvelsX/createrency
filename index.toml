@@ -26,7 +26,11 @@ hash = "17a5959a1d4c4d8a1be63a234e5a7c321dba2cdc1fc7a45604445781381b4f6d"
 
 [[files]]
 file = "config/fancymenu/assets/subtitle.png"
-hash = "11bf241dcff6ed5c1b216af515643bbd65a283eaedcd2adac285f95d5fc80397"
+hash = "c2f5506b040a510767c244659ed6690bf133c2c7cca1862a9a3274f2613ff00a"
+
+[[files]]
+file = "config/fancymenu/assets/subtitle_hovered.png"
+hash = "53594cac6b8b148035148be6d4ec4b05093b38051569cdf89714544a84e59e84"
 
 [[files]]
 file = "config/fancymenu/assets/title.png"
@@ -54,7 +58,7 @@ hash = "5bd8a7abc0234e6fea14612477f74afaedbc1782408505eb4ae53452f7d5137e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "d0197cfbae1812f05b6d70a5458a08e67567fcd5cb74d550aadf2f294f4fcaf0"
+hash = "ed91e20d03900efb4910032410f1caa9b072146ea3be98660d68eedb1e468f4d"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -314,11 +318,11 @@ hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
-hash = "ed98502e13bcaad93bc08bc2d45aaf43df98484c42dd90e0675d462acabecead"
+hash = "65623cbc74f2233a066c55c6019541d18f930d910c3d6829d06994632c0f2206"
 
 [[files]]
 file = "config/yosbr/config/jade/plugins.json"
-hash = "9303ef2f5d5f93bc9d5d8cdb5d4c5a2ba4465c58f0afa0b6edc2cbc9b6cb84db"
+hash = "c0c32331cec12220fb949b76153327908b977b43fcb5b1d8d226e42a35464986"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -938,23 +942,23 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.04.zip.txt"
-hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
+hash = "16672353b5fd47f0e329f7315ee2a6550bf61852ef72f90a4638ea6ae55c315a"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
-hash = "f4db72dfa6a21c24944444f3fe0fa2f47dc07c21ebed8fa51146c69f2cb6c5a2"
+hash = "ea9186459a42374041ad9ab2a0ec57c3813b53f229489c47c9a70c4a554d3be5"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
-hash = "368a80ef2b4acdc542ea08fe7f78da150203598d6fa128489ec40b66d318376a"
+hash = "e3ed80d229e536603565e6712d8d4190efe89599c30de060f871a8fcbafee87a"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3_NS.zip.txt"
-hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
+hash = "13a1af27a9ae7c54324ae6ee3162ceac8ad82e586e8aa987e75d0bad5ea8fbcc"
 
 [[files]]
-file = "shaderpacks/Sildur's+Enhanced+Default+v1.15+Fancy.zip.txt"
-hash = "51dbe91be0436a94a58f0827e216f1822cf208950f0173fb7d349c87a9bc935f"
+file = "shaderpacks/Sildur's+Enhanced+Default+v1.171+Fancy.zip.txt"
+hash = "2a9adfb00e6c4a953afff46fe30bd726a968210306a6e8a799fe4400b17ba272"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
