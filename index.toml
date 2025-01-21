@@ -433,10 +433,6 @@ file = "config/yosbr/options.txt"
 hash = "a2ddc70ca15a9fd402b3a11656002370d733653f6784348b862241e0c83ba68b"
 
 [[files]]
-file = "icon.png"
-hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
-
-[[files]]
 file = "mods/amecs.pw.toml"
 hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
 metafile = true
@@ -658,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8919c96e0b5948f65dec54d025e79044c6e9acf4695158ff4560a4ade667da16"
+hash = "36695dcf8c2cbeea8128fbbc15d7f9e0cb8b56e9ac0cb83d9d26f6ef3b78d783"
 metafile = true
 
 [[files]]
