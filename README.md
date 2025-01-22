@@ -17,17 +17,18 @@ Thank you 💖 for being there and have a nice game!
 _\* resources that you can install in the assembly, the settings for these resources are already provided._
 
 ### Mods
-- [\*Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie/versions?g=1.20.1)
-- [\*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.20.1)
-- [\*Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?l=fabric&g=1.20.1)
-- [\*Smooth Swapping](https://modrinth.com/mod/smooth-swapping/versions?l=fabric&g=1.20.1)
-- [Better Third Person](https://modrinth.com/mod/better-third-person/versions?l=fabric&g=1.20.1)
-- [\*First-person Model](https://modrinth.com/mod/first-person-model/versions?l=fabric&g=1.20.1)
-- [\*AppleSkin](https://modrinth.com/mod/appleskin/versions?l=fabric&g=1.20.1)
-- [\*3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions?l=fabric&g=1.20.1)
-- [Controlify](https://modrinth.com/mod/controlify)
-- [Sounds](https://modrinth.com/mod/sound/versions?l=fabric&g=1.20.1)
-- [AmbientSounds](https://modrinth.com/mod/ambientsounds/versions?g=1.20.1&l=fabric)
+- [\*Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie/versions?g=1.20.1) — adds useful features for mouse interaction
+- [\*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.20.1) — adds surround sound to in-game interactions for improved immersion
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds/versions?g=1.20.1&l=fabric) — adds immersive ambient sounds
+- [\*Smooth Swapping](https://modrinth.com/mod/smooth-swapping/versions?l=fabric&g=1.20.1) — adds not bad animation to moving items
+- [\*Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?l=fabric&g=1.20.1) — adds sweet mini map 
+- [Better Third Person](https://modrinth.com/mod/better-third-person/versions?l=fabric&g=1.20.1) — adds good-looking third-person camera
+- [\*First-person Model](https://modrinth.com/mod/first-person-model/versions?l=fabric&g=1.20.1) — adds first-person camera dynamics, now you will see your body
+- [Controlify](https://modrinth.com/mod/controlify) — adds gamepad control
+- [Sounds](https://modrinth.com/mod/sound/versions?l=fabric&g=1.20.1) — adds fun sounds to interactions
+- [\*AppleSkin](https://modrinth.com/mod/appleskin/versions?l=fabric&g=1.20.1) — adds handy indicator of your hunger
+- [\*3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions?l=fabric&g=1.20.1) — adds some volume to your skins
+
 
 ### Shader packs
 
