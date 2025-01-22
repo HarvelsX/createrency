@@ -337,6 +337,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "d35fee605edec68869905b5cabe934d87c5478a431536a9753ba5c2bab6b7d8c"
 
 [[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "11c9fb52a1e69005918c6d0c1959483b170ad1edb57359f47f34b0f983568e31"
+
+[[files]]
 file = "config/yosbr/config/notenoughanimations.json"
 hash = "f7c2f74cf88da3e70b3698c6c8a9d6638f4b4eb9cd180ed4a6e2faee35a608fe"
 
@@ -389,16 +393,20 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "3661f0c226ac838c41f86a60dbd2e9ee37a86b6e7e899dbea6147c17ebe85f9c"
 
 [[files]]
+file = "config/yosbr/config/sound_physics_remastered/allowed_sounds.properties"
+hash = "825aae35951f776e4ea56c5603eb956cba02247d24f445143b22a5fd0f617569"
+
+[[files]]
 file = "config/yosbr/config/sound_physics_remastered/occlusion.properties"
-hash = "7966c499efe32de10c5c0b1106e03f817834ef15f89097f664cdad9af078940d"
+hash = "f991499d6a5c1f95f083a860d616d14a5198b5f7b44d5c5e90e35ba20015e2b3"
 
 [[files]]
 file = "config/yosbr/config/sound_physics_remastered/reflectivity.properties"
-hash = "ddc49f813bdd872b2eb63671d5e1026dd59ffcbceb565d56b06d98e8cf5b0725"
+hash = "eb19ac3ffc9465934b16c329daf1ffe0182c6eaeb0513ee12c9c1b9ff804c00c"
 
 [[files]]
 file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
-hash = "d1d6bd3a9eb769217bb16fe1805a50a71d7cee4863266af1a29bcee1120bd371"
+hash = "63c5ae8f25aa13566d70f64a932ff0f54bd49714fcc7034598c78ea9cc38750d"
 
 [[files]]
 file = "config/yosbr/config/toms_storage.json"
@@ -426,7 +434,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a2ddc70ca15a9fd402b3a11656002370d733653f6784348b862241e0c83ba68b"
+hash = "744acea845e69e7a657eb6b25d56613b972d96b716ea5dd2e3a19d44093e0d9a"
 
 [[files]]
 file = "mods/amecs.pw.toml"
@@ -636,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "1c88cfee239a15fd5e5398df0326e16616dd9a5ccef0ab8eeee4271fcb00fb77"
 metafile = true
 
 [[files]]
