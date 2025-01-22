@@ -281,6 +281,14 @@ file = "config/yosbr/config/fallingleaves.json"
 hash = "66d19eb828dc53dd04e4f418ee1337e7c1d34192b44efa709e56358b2e2a99e8"
 
 [[files]]
+file = "config/yosbr/config/farmersdelight-client.toml"
+hash = "2c06ab5810eb6ffee99fa015896b5bc44c418a1b1996a9ba8f48d5fbc8517bab"
+
+[[files]]
+file = "config/yosbr/config/farmersdelight-common.toml"
+hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
+
+[[files]]
 file = "config/yosbr/config/firstperson.json"
 hash = "888c308f1c21e6c7dc8530bdd6f70e93ab6bf69161526351db883e248a79c919"
 
@@ -462,6 +470,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "b46322fb10cbf0b3c73f5c41bfc66ff54479d2dec5e6d1b9d6cd024743283f5f"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
 metafile = true
@@ -474,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "89f2bde6688a727db8e71fe98f3b053c7f2a80b13f1c9d09a9ad15ebafb4cb78"
 metafile = true
 
 [[files]]
@@ -777,16 +795,6 @@ hash = "35d4f6606477aaeead65efcdb1c459e228d9102372564e4de27b41c73b8925a7"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "b5cff3ca9e8514494658b7d4f758be88566f8a6adc7f430e8a7bc64d635733de"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "6007905b54e2f0a2d137906df129e52801acac2c174d9a56ed36c33dbad7e549"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -794,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
+hash = "a7757434515ebe45f2c6fa27f3a7cff433a1b0fbf166ad994846b18eaf1886c9"
 metafile = true
 
 [[files]]
@@ -809,6 +822,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -854,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "af8c4da9d92fa2e95a4f147cb6b1577c89cd82265d2c3317076a7c16dc8f4d87"
+metafile = true
+
+[[files]]
+file = "mods/wasabiwhisper-harmonia.pw.toml"
+hash = "beb468c5169ce7c5dfddfb8850ee9b330cb0c9c5650528320e741a27c35faa2e"
 metafile = true
 
 [[files]]
@@ -950,15 +973,15 @@ file = "shaderpacks/BSL_v8.2.04.zip.txt"
 hash = "16672353b5fd47f0e329f7315ee2a6550bf61852ef72f90a4638ea6ae55c315a"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
 hash = "ea9186459a42374041ad9ab2a0ec57c3813b53f229489c47c9a70c4a554d3be5"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.4.zip.txt"
 hash = "e3ed80d229e536603565e6712d8d4190efe89599c30de060f871a8fcbafee87a"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.3_NS.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.4_NS.zip.txt"
 hash = "13a1af27a9ae7c54324ae6ee3162ceac8ad82e586e8aa987e75d0bad5ea8fbcc"
 
 [[files]]
@@ -972,10 +995,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "825852fe2c8364a4b976267057c9a6f25441fda0b5e6a5358119b69a8caeb113"
+hash = "388a72f2dc309290205fc6508fda6264183811bb29a279687cb59639a0e56277"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "61d726c795b17325d39cdc97fa519658f243fddc571f54c2e59bb82d196f6b2d"
+hash = "d06b8b141fd219eb7484f22431fe73a61cc4e7d86a7d710db6cd6e34466e86b8"
 metafile = true
