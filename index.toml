@@ -109,14 +109,6 @@ file = "config/modmenu.json"
 hash = "8e2d304eee7602e9af8b579c705d09cee94e74f9afd803246ba204db9f9ba37e"
 
 [[files]]
-file = "config/simple-rpc/server-entries.toml"
-hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
-
-[[files]]
-file = "config/simple-rpc/simple-rpc.toml"
-hash = "937a3813a7e23de7101e210138f91aa783047b6fdc75e79a8cbbfde67edaf27a"
-
-[[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
@@ -322,7 +314,7 @@ hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
-hash = "65623cbc74f2233a066c55c6019541d18f930d910c3d6829d06994632c0f2206"
+hash = "91667ae320ba8d95ec224d7786515047b1bd439f94461d7f054f01e913e28ee0"
 
 [[files]]
 file = "config/yosbr/config/jade/plugins.json"
@@ -827,11 +819,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
 metafile = true
 
 [[files]]
