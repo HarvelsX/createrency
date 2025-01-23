@@ -434,7 +434,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "744acea845e69e7a657eb6b25d56613b972d96b716ea5dd2e3a19d44093e0d9a"
+hash = "d58453bcff5f863227501350e162ff8708cdc94aea08daa1e266eacc7ce28078"
 
 [[files]]
 file = "mods/amecs.pw.toml"
@@ -917,10 +917,6 @@ hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.640bc1f.zip"
-hash = "f0ea96d3fb40e4c3104217420d34ed40a52a32f659f162fd60da127bbddb9ae3"
-
-[[files]]
 file = "resourcepacks/xalis-bushy-leaves.pw.toml"
 hash = "f64f92a84fb65425ba94403f7fb938e69971561d783eac354c307affa88d9a7d"
 metafile = true
@@ -933,6 +929,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "1834850889184235d2a7402e16be3c0f624b9b47233c934520e59f0115864632"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-biome-river-pond.pw.toml"
+hash = "de652ed6edc8472e8414eda102a11621bf2119c0d62905363c1eab71f67f089e"
 metafile = true
 
 [[files]]
