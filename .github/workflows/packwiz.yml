@@ -17,7 +17,7 @@ jobs:
       - uses: robinraju/release-downloader@v1.8
         with:
           repository: snyball/tombl
-          fileName: '*.tar.gz'
+          fileName: "*.tar.gz"
           latest: true
       - name: Install tombl
         run: |
@@ -52,7 +52,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v3
         with:
-          go-version: '>=1.18.0'
+          go-version: ">=1.18.0"
           check-latest: true
       - name: Download Packwiz
         run: go install github.com/packwiz/packwiz@latest
@@ -79,8 +79,8 @@ jobs:
       - name: Setup Java
         uses: actions/setup-java@v3
         with:
-          distribution: 'temurin'
-          java-version: '17'
+          distribution: "temurin"
+          java-version: "17"
       - name: Download Packwiz Installer
         run: |
           wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar \
@@ -90,16 +90,21 @@ jobs:
           packwiz modrinth export -o .output/${{ needs.info.outputs.package }}.mrpack
 
           pack=file://`realpath pack.toml`
-          cd .temp && java -jar packwiz-installer-bootstrap.jar -g $pack
-          zip -r ../.output/${{ needs.info.outputs.package }}.zip . \
+
+          pushd .temp
+          java -jar packwiz-installer-bootstrap.jar -g $pack
+          popd
+
+          zip -r .output/${{ needs.info.outputs.package }}.zip .temp \
             -x 'packwiz-installer-bootstrap.jar' \
             -x 'packwiz-installer.jar' \
             -x 'packwiz.json'
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: modpacks
           path: .output/
+          include-hidden-files: true
 
   release:
     runs-on: ubuntu-latest
