@@ -21,14 +21,6 @@ file = "config/fancymenu/assets/macos.icns"
 hash = "17a5959a1d4c4d8a1be63a234e5a7c321dba2cdc1fc7a45604445781381b4f6d"
 
 [[files]]
-file = "config/fancymenu/assets/subtitle.png"
-hash = "c2f5506b040a510767c244659ed6690bf133c2c7cca1862a9a3274f2613ff00a"
-
-[[files]]
-file = "config/fancymenu/assets/subtitle_hovered.png"
-hash = "53594cac6b8b148035148be6d4ec4b05093b38051569cdf89714544a84e59e84"
-
-[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "fec3b749d690a28f2cd6763071d4c887cee000b242900e8fa3442b2ecf2be687"
 
@@ -54,7 +46,7 @@ hash = "5bd8a7abc0234e6fea14612477f74afaedbc1782408505eb4ae53452f7d5137e"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "ed91e20d03900efb4910032410f1caa9b072146ea3be98660d68eedb1e468f4d"
+hash = "b64de5c3c9545ee99949fb0dacd3e3261d81d24f122bca867b8cf8321d883820"
 
 [[files]]
 file = "config/fancymenu/options.txt"
