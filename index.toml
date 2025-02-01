@@ -522,6 +522,11 @@ hash = "5d83b1518fa7939016af80f298348a2a28713a42cc7323fb33331098853b4210"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-additions.pw.toml"
+hash = "f7cd6a1ac16a483a1adaad11a43c549281ff0bef56d031b1aa5df330f3b58d02"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
@@ -692,6 +697,11 @@ hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
@@ -844,11 +854,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "af8c4da9d92fa2e95a4f147cb6b1577c89cd82265d2c3317076a7c16dc8f4d87"
-metafile = true
-
-[[files]]
-file = "mods/wasabiwhisper-harmonia.pw.toml"
-hash = "beb468c5169ce7c5dfddfb8850ee9b330cb0c9c5650528320e741a27c35faa2e"
 metafile = true
 
 [[files]]
