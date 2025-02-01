@@ -1,0 +1,3 @@
+- Add compatibility between **Dreams & Desires** and **Deco** Create add-ons
+- Add rendering compatibility between **Iris** and **Create Flywheel**
+- Update translations resource pack for Sodium
